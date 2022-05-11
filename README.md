@@ -1,5 +1,3 @@
-Excel Task book Generic
-
 # Introduction
 
 This is a generic task book that comes with the ability to auto clear a task out of the task book and auto serialize the data. The task book comes with a very simplistic and straight forward design. The Table inside of the task book can be altered with additional columns without breaking the functionality of the task book. As long as the word “Done” is located in the top column, the task book will function normally.
